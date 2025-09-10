@@ -1,1 +1,1 @@
-Event Ticket Booking System with Transaction Safety & Concurrency Handling
+Event Ticket Booking System with Golang
